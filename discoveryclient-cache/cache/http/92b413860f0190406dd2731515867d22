@@ -1,0 +1,7 @@
+HTTP/2.0 200 OK
+Content-Length: 137
+Cache-Control: no-cache, private
+Content-Type: application/json
+Date: Tue, 13 Dec 2022 16:14:40 GMT
+
+{"kind":"APIVersions","versions":["v1"],"serverAddressByClientCIDRs":[{"clientCIDR":"0.0.0.0/0","serverAddress":"10.112.240.155:6443"}]}
